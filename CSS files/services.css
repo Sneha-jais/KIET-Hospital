@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    /* background-image: url("https://tse4.mm.bing.net/th?id=OIP.bK_afgJWwU52g1vR2WMKfQHaEo&pid=Api&P=0&w=281&h=176");
+    background-repeat: no-repeat; */
+}
+.nav-item:hover{
+    background-color: rgb(136, 136, 136);
+    opacity: 1;
+    font-size: 1.5vw;
+}
+
+
+p{
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+}
+
+
+.box{
+border: 2px solid azure;
+border-radius: 1.8vw;
+background-color: azure;
+margin: 2vh auto;
+
+width: 50%
+
+}
+
+footer{
+    background-color: #0d6efd;
+}
+a{
+text-decoration: none;
+color: black;
+}
+.col-icon{
+    display: inline-flex;
+    justify-content: center;
+}
+.fa{
+    font-size: 2rem;
+
+}
+.col-links{
+    margin: 0vw 0vw 0vw 8vw;
+}
+.fa-facebook {
+
+    color: rgb(66, 32, 219);
+    margin: 10px;
+    font-size: 25px;
+  }  
+  .fa-linkedin {
+    margin: 10px;
+    color: blue;
+  }
+  
+  .fa-youtube {
+    margin: 10px;
+    color: red;
+  }
+  
+  .fa-instagram {
+    margin: 10px;
+    color: rgb(212, 55, 199);
+  }
