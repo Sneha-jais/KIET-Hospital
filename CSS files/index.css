@@ -28,11 +28,11 @@ h3{
 .nav-item:hover{
     background-color: rgb(136, 136, 136);
     opacity: 1;
-    font-size: 1.5vw;
+ 
 }
 
 .card img:hover{
-    transform: scaleY(1.3);
+    transform: scaleY(1.2);
 cursor: zoom-in;
 }
 .container-fluid.justify-content-start:hover{
