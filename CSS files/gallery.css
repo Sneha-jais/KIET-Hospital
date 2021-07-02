@@ -1,7 +1,15 @@
+html{
+    /* width: 100%!important;
+    height: 100%; */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;   
+}
 body{
     margin: 0;
     padding: 0;
     background-color: antiquewhite;
+      overflow-x: hidden;  
     /* background-image: url("https://tse4.mm.bing.net/th?id=OIP.bK_afgJWwU52g1vR2WMKfQHaEo&pid=Api&P=0&w=281&h=176");
     background-repeat: no-repeat; */
 }
